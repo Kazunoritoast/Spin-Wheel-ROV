@@ -1,6 +1,6 @@
 const heroes = [
-    "Airi", "Allain", "Aleister", "Alice", "Aoi", "Amily", "Annette", "Arduin", "Arthur", "Arum",
-    "Astrid", "Ata", "Aya", "Azzen'Ka", "Baldum", "Bijan", "Bonnie", "Bright", "Brunhilda", "Butterfly",
+    "Airi", "Allain", "Aleister", "Alice", "Aoi", "Amily", "Annette", "Arduin", "Mortos", "Arum",
+    "Astrid", "Ata", "Aya", "Azzen'Ka", "Baldum", "Bijan", "Bonnie", "Bright", "Celica", "Butterfly",
     "Capheny", "Chaugnar", "Cresht", "D'Arcy", "Dextra", "Diaochan", "Dirak", "Eland'orr", "Elsu", "Enzo",
     "Errol", "Erin", "Fennik", "Flash", "Florentino", "Gildur", "Grakk", "Hayate", "Helen", "Iggy",
     "Ignis", "Ilumia", "Ishar", "Jinnar", "Kahlii", "Kaine", "Keera", "Kil'Groth", "Kriknak", "Krixi",
